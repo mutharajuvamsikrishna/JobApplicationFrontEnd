@@ -54,6 +54,7 @@ const Profile = () => {
                           width: "30px",
                         }}
                       /></Link>
+                      
                       <p>Logout</p>
             </center>
           </div>
